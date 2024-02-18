@@ -90,6 +90,7 @@ function App() {
     'red-line': {
       color: 'red',
       fontSize: '16px',
+      textDecoration: "none",
     },
     'header-one': {
       color: 'black',
