@@ -92,15 +92,19 @@ function App() {
       fontSize: '16px',
     },
     'header-one': {
+      color: 'black',
       fontSize: '2rem',
       fontWeight: 'bold',
     },
     'BOLD':{
+      color: 'black',
       fontSize: '16px',
       fontWeight: 'bold',
     },
     'UNDERLINE':{
-      fontWeight:'none'
+      color: 'black',
+      fontWeight:'none',
+      fontSize: '16px',
     }
     
   };
