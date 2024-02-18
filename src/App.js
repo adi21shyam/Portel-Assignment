@@ -104,6 +104,7 @@ function App() {
     'UNDERLINE':{
       color: 'black',
       fontWeight:'none',
+      textDecoration: "underline",
       fontSize: '16px',
     }
     
