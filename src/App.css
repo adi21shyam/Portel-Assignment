@@ -34,6 +34,11 @@
   transition: background-color 0.2s, border-color 0.2s;
 }
 
+.head-button:hover {
+  background-color: #a3a6aa; /* hover:bg-blue-400 */
+  border-color: #1c2535; /* hover:border-blue-500 */
+}
+
 .main{
   justify-content: space-between;
   display: flex;
